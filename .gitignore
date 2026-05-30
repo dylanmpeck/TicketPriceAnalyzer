@@ -1,0 +1,7 @@
+prices.db
+run.log
+alerts.log
+__pycache__/
+*.pyc
+.env
+!.env.example
